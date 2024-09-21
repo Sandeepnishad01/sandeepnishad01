@@ -16,7 +16,6 @@
   <em>Software Developer | Cybersecurity Enthusiast | Lifelong Learner</em>
 
   ![Exploring Innovation](https://img.shields.io/badge/-Exploring%20Innovation-FF6347?style=for-the-badge&logo=react&logoColor=white)
-  ![Passionate Developer](https://img.shields.io/badge/-Passionate%20Developer-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 
   I love solving complex problems and building innovative web apps. My passion lies in blending software development with cybersecurity solutions. I'm always keen to collaborate on interesting projects and learn new technologies!
 </div>
@@ -53,12 +52,36 @@ I live for turning complex challenges into simple, elegant code, making technolo
 
 ### 🛠 Skills:
 
-- **Programming Languages**: Python, JavaScript, HTML5, CSS3
-- **Frameworks & Tools**: React.js, Node.js, Express.js
-- **Cybersecurity**: Penetration Testing, Burp Suite, Docker, VAPT
-- **Data Science & Machine Learning**: Data Cleaning, Exploratory Data Analysis, Machine Learning Algorithms
-- **Project Management**: Git, GitHub, Docker, Agile Methodologies
 
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF4757?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF7F50?style=for-the-badge&logo=ml&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-7B92D1?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-2C86A0?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-6C4F72?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-FF6347?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+
+
+---
+🏆 Certifications
+
+- **CompTIA Security+ (SY0-601)**
+- **CompTIA PenTest+**
+- **[Additional certifications or relevant courses can be added here]**
 ---
 
 ### 🏆 Projects:
@@ -95,23 +118,6 @@ I live for turning complex challenges into simple, elegant code, making technolo
 
 </div>
 ---
-
-### 🐍 Snake Ate My Contributions!
-
-![snake gif](https://raw.githubusercontent.com/Sandeepnishad01/Sandeepnishad01/main/assets/github-contribution-grid-snake.gif)
-
----
-
-### 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeepnishad01&show_icons=true&hide_border=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepnishad01&layout=compact&hide_border=true&theme=radical" />
-</div>
-
----
-
-
 ## 📬 **Contact Me:**
 
 If you'd like to reach out for collaboration, job opportunities, or just want to chat about tech, feel free to drop a message!
