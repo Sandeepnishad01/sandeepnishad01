@@ -1,19 +1,16 @@
-
 ---
-
 <div align="center">
 
-  ### 👋 Welcome to My GitHub! I'm **Sandeep Nishad**
+  ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=header&text=Welcome+to+My+GitHub!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
 
+  ### 👋 Hi there! I'm **Sandeep Nishad**
+  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px">
+  
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200px" height="150px">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px" height="150px">
-</div>
-
-<div align="center">
-  <em>Software Developer | Cybersecurity Enthusiast | Lifelong Learner</em>
+  <em>Software Developer | Machine Learning | Cybersecurity Enthusiast | </em>
 
   ![Exploring Innovation](https://img.shields.io/badge/-Exploring%20Innovation-FF6347?style=for-the-badge&logo=react&logoColor=white)
 
@@ -21,26 +18,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+Awesome+Web+Apps!;Exploring+Cybersecurity+Solutions!;Love+to+Collaborate!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Building+Awesome+Web+Apps!;Machine+Learning!;Exploring+Cybersecurity+Solutions!" alt="Typing Animation">
 </div>
 
 ---
 
-
-
-
 ## 🚀 **About Me:**
 
 Hey there! I'm a passionate **Software Developer** and **Cybersecurity Enthusiast** driven by curiosity and the desire to build and secure the future of technology. From crafting intuitive user interfaces to writing optimized backend code, I strive to create impactful solutions. With a solid foundation in **Full-Stack Web Development** and an undying interest in **AI & Machine Learning**, I’m constantly exploring new ways to make the digital world better and safer. 🧠💡
-
-### 💻 **What I Bring to the Table:**
-
-- **Web Development Mastery**: Full-stack proficiency with **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Building sleek, dynamic, and user-friendly web applications.
-- **Cybersecurity Passion**: Committed to ensuring secure applications with a deep understanding of **VAPT**, **Web Application Firewalls**, and **Penetration Testing**.
-- **Data Science Enthusiast**: Hands-on experience in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Machine Learning Algorithms** to extract valuable insights and predict outcomes.
-- **Project Leadership**: Leading teams with Agile methodologies, ensuring smooth workflows, and delivering projects on time.
-
-I live for turning complex challenges into simple, elegant code, making technology accessible to everyone!
 
 ---
 
@@ -50,10 +35,24 @@ I live for turning complex challenges into simple, elegant code, making technolo
 - **Security**: A secure application is a successful application. I'm dedicated to building robust and secure software that stands the test of time.
 - **Collaboration**: Teamwork is where the magic happens. I love working with others to bring visionary projects to life!
 
-### 🛠 Skills:
+---
 
+### 💻 **What I Bring to the Table**:
+
+
+- **Web Development Mastery**: Full-stack proficiency with **React.js**, **Node.js**, **Express.js**, and **MongoDB**. Building sleek, dynamic, and user-friendly web applications.
+- **Machine Learning Expertise**: Skilled in designing and implementing **Machine Learning Models** using **Python**, **TensorFlow**, **Keras**, and **Scikit-learn**. Proficient in applying **Supervised** and **Unsupervised Learning** algorithms for predictive analytics, classification, regression, and clustering tasks.
+- **Data Science Enthusiast**: Hands-on experience in **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Machine Learning Algorithms** to extract valuable insights and predict outcomes.
+- **Cybersecurity Passion**: Committed to ensuring secure applications with a deep understanding of **VAPT**, **Web Application Firewalls**, and **Penetration Testing**.
+- **Project Leadership**: Leading teams with Agile methodologies, ensuring smooth workflows, and delivering projects on time.
+
+---
+
+### 🛠 **Skills**:
 
 <div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRwYWRxeW0yNXkwM3huY3d2eWs3dmIyY3RzaHZ3NG93aWRkZjdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/59aP5PpvBa9Q8JN16d/giphy.gif" width="500" height="300">
+  <br>
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -62,6 +61,7 @@ I live for turning complex challenges into simple, elegant code, making technolo
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity-FF4757?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF7F50?style=for-the-badge&logo=ml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -72,19 +72,20 @@ I live for turning complex challenges into simple, elegant code, making technolo
   <img src="https://img.shields.io/badge/Burp%20Suite-6C4F72?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-FF6347?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white/">
+
 </div>
 
-
-
 ---
-🏆 Certifications
 
+### 🏆 **Certifications**:
 - **CompTIA Security+ (SY0-601)**
 - **CompTIA PenTest+**
 - **[Additional certifications or relevant courses can be added here]**
+
 ---
 
-### 🏆 Projects:
+### 🏆 **Projects**:
 
 - **🌐 [WebFencePro](https://github.com/Sandeepnishad01/WebFencePro)**:
   - Developing a **Web Application Firewall (WAF)** to detect, monitor, and prevent attacks on websites.
@@ -103,67 +104,54 @@ I live for turning complex challenges into simple, elegant code, making technolo
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 **GitHub Stats**:
 
 <div align="center">
   
-![Sandeep's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Sandeepnishad01&theme=tokyonight&hide_border=true)
+  <!-- Custom GitHub Overview Graph -->
+  ![Sandeep's GitHub Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandeepnishad01&theme=github_dark)
+
+  <!-- Alternative Contribution Graph -->
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandeepnishad01&theme=react-dark&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true)
+
+  <!-- Modern GitHub Stats -->
+  ![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeepnishad01&show_icons=true&count_private=true&hide=prs&theme=radical&bg_color=0d1117&title_color=ff007f&text_color=c9d1d9&icon_color=ff007f&hide_border=true)
+
+  <!-- Language Stats with Dynamic Design -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepnishad01&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=ff007f&text_color=c9d1d9&icon_color=ff007f&hide_border=true)
   
-![Sandeep's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandeepnishad01&theme=monokai)
+  <!-- GitHub Streaks -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Sandeepnishad01&theme=radical&hide_border=true&background=0d1117&stroke=ff007f&ring=ff007f&fire=ff007f&currStreakNum=c9d1d9&currStreakLabel=ff007f)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepnishad01&layout=compact&theme=tokyonight&hide_border=true)
-
- ![Profile Views](https://komarev.com/ghpvc/?username=Sandeepnishad01&style=for-the-badge&color=blueviolet)
-
+  <!-- Profile Visitors -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=Sandeepnishad01&style=for-the-badge&color=ff007f&label=PROFILE+VISITS)
 
 </div>
+
+
 ---
-## 📬 **Contact Me:**
+
+## 📬 **Contact Me**:
 
 If you'd like to reach out for collaboration, job opportunities, or just want to chat about tech, feel free to drop a message!
 
 <div align="center">
-  
   <a href="mailto:sandeepnishad.cs01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   
-  <a href="https://www.linkedin.com/in/sandeep-nishad01">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sandeepnishad01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
   <a href="https://github.com/Sandeepnishad01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  
-  <a href="https://twitter.com/sandeepnishad01">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  
 </div>
-
----
-
-## 🚀 **Let's Connect**:
-
-- **Email**: [sandeepnishad.cs01@gmail.com](mailto:sandeepnishad.cs01@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sandeep-nishad01](https://www.linkedin.com/in/sandeep-nishad01)
-- **GitHub**: [github.com/Sandeepnishad01](https://github.com/Sandeepnishad01)
-- **Twitter**: [twitter.com/sandeepnishad01](https://twitter.com/sandeepnishad01)
-
----
-
-## 🖥️ **Let's Build Something Great Together!**
-
----
 
 <div align="center">
   
-  💻 Built with passion for technology and security.<br> 
-  💬 Let's chat about your next project or collaboration.<br><br>
-  
-  <img src="https://img.shields.io/badge/-Stay%20Curious!-FF6347?style=for-the-badge&logo=rocket&logoColor=white" alt="Curious">
-  
+  ![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=ffffff)
+
 </div>
 
----
