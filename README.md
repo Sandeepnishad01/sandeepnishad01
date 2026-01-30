@@ -1,86 +1,98 @@
-<h1 align="center">Hi there, I'm Sandeep 👋</h1>
-<h3 align="center">A passionate Full-Stack Web Developer 🚀 and Cybersecurity Enthusiast 🔐</h3>
+# Hi, I'm Sandeep 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Titan01dev&show_icons=true&theme=radical" alt="Titan01dev stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Titan01dev&theme=radical" alt="Titan01dev streak stats" width="400"/>
-</p>
+### Web Application Security Tester 🔐 | API Security | Startup-Focused Pentesting
+
+Helping startups & small businesses identify critical security flaws before attackers do.
 
 ---
 
-### 🌟 About Me
-- 🔍 Currently working on **WebFencePro**, a cutting-edge **Web Application Firewall** project.
-- 🌱 Learning and experimenting with modern web technologies and cybersecurity tools.
-- 🎯 Committed to building secure and scalable web applications.
-- 💡 Interested in combining **AI** and **Security** to create innovative solutions.
+## 🛡️ About Me
+
+I am a **cybersecurity-focused web application security tester** with hands-on experience in testing modern web applications and APIs.
+
+I specialize in finding **real-world, high-impact vulnerabilities** such as:
+- Broken Authentication & Session Management
+- Authorization issues & IDOR
+- API security flaws
+- Security misconfigurations
+- Sensitive data exposure
+
+I focus on **manual testing**, clear communication, and providing **actionable remediation guidance** developers can actually use.
 
 ---
 
-### 🛠️ My Toolbox
+## 🎯 What I Do Best
 
-#### 💻 Languages
-- **Frontend**: HTML, CSS, JavaScript, TypeScript
-- **Backend**: Node.js, Python, PHP
+- Manual Web Application Security Testing (OWASP Top 10)
+- Authentication & Authorization Testing
+- API Security & Access Control Testing
+- Clear, developer-friendly vulnerability reports
+- Practical remediation recommendations
 
-#### 🌐 Frontend Frameworks & Libraries
-- React.js
-- Tailwind CSS
-- Bootstrap
+---
 
-#### 🛠 Backend & Server Technologies
-- Express.js
-- Flask
-- Django
+## 🧰 Security & Development Toolkit
 
-#### 📦 Database & Cloud
-- MySQL, MongoDB
-- Firebase
-- AWS, Docker
-
-#### 🔒 Cybersecurity Tools
-- Burp Suite
-- OWASP ZAP
+**Cybersecurity**
+- Burp Suite (Proxy, Repeater)
+- OWASP Top 10
 - Kali Linux
+- OWASP ZAP
 
-#### ⚙️ DevOps & Others
-- Git, GitHub, GitHub Actions
-- CI/CD Pipelines
-- Vite, Webpack
+**Backend & App Understanding**
+- Python (Flask)
+- Node.js (Express)
+- REST APIs
+- JWT & Session Handling
+- RBAC
 
----
-
-### 📈 GitHub Stats & Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titan01dev&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Titan01dev&bg_color=1a1b27&color=be90f2&line=638fda&point=f5f5f5&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- **[WebFencePro](https://github.com/Titan01dev/WebFencePro)**:  
-  🛡 A real-time Web Application Firewall with data analytics for monitoring traffic and identifying security threats.  
-  **Tech Stack**: React.js, Node.js, MongoDB, Machine Learning
-
-- **[Crop Disease Detection](https://github.com/Titan01dev/CropDiseaseDetection)**:  
-  🌱 A Machine Learning-based solution for identifying crop diseases.  
-  **Tech Stack**: Python, Flask, OpenCV
-
-- **[AI-Powered Virtual Assistant](https://github.com/Titan01dev/AI-Assistant)**:  
-  🤖 An intelligent assistant to help automate tasks and enhance productivity.  
-  **Tech Stack**: Python, NLP, TensorFlow
+**Web & DevOps**
+- HTML, CSS, JavaScript
+- React.js
+- MongoDB, MySQL
+- Docker, Git, Linux
+- AWS (Basics)
 
 ---
 
-### 📬 Let's Connect!
+## 🚀 Featured Project
 
-- 🔗 **GitHub**: [github.com/Titan01dev](https://github.com/Sandeepnishad01)
-- 📧 **Email**: your-email@example.com
-- 🌐 **LinkedIn**: [Your LinkedIn Profile](#)
-- 📝 **Portfolio**: [Your Portfolio Link](#)
+### 🛡️ WebFencePro – Web Application Firewall
+A security-focused project designed to monitor, analyze, and protect web applications from common attack patterns.
+
+**Highlights**
+- OWASP-based attack detection
+- Traffic monitoring & analytics
+- Security-first architecture
+
+🔗 https://github.com/Titan01dev/WebFencePro
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me to collaborate on exciting projects!*  
+## 🔍 Security Labs & Practice
+
+Hands-on testing of intentionally vulnerable applications focusing on:
+- Authentication bypass
+- IDOR & access control
+- API abuse
+- Security misconfiguration
+
+(Reports will be added)
+
+---
+
+## 📬 Let’s Connect
+
+- GitHub: https://github.com/Titan01dev
+- LinkedIn: (add link)
+- Email: (professional email)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Titan01dev&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Titan01dev)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Titan01dev)
